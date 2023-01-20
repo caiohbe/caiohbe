@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-My name is Caio Hagge and I'm a 20 years old web full-stack developer!
+My name is Caio Hagge and I am a 20 years old web full-stack developer!
 
 <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg" width = 220px align = right />
 
