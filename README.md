@@ -1,4 +1,4 @@
-# Hello World! 🌍:
+# Hello World! 🌍
 🔭 Currently working on a virtual wardrobe application <br>👥 Looking for a posterior colaboration on the Criosfera application<br>🌱 Learning Next.js and Nest.js frameworks as a fullstack web dev<br>🥼 Brief background on chemistry engineering on UERJ, Rio de Janeiro
 
 
